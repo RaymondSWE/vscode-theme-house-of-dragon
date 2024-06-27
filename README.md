@@ -1,16 +1,20 @@
-# house-of-the-dragons--team-greens README
+# House of the Dragon: The Blacks vs The Greens
 
-## Working with Markdown
+Welcome to the **House of the Dragon: The Blacks vs The Greens** theme for Visual Studio Code. This theme is inspired by the epic battles and rich lore of the House of the Dragon. Choose your side and immerse yourself in the colors of your favorite faction.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Available Themes
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- **House of the Dragon: Team Greens**
+  - A theme with shades of green representing the loyalists of the King Aegon II Targaryen.
+- **House of the Dragon: Team Blacks**
+  - A theme with shades of black and red representing the loyalists of the Queen Rhaenyra Targaryen.
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## License
 
-**Enjoy!**
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## Credits
+- Theme inspired by "House of the Dragon".
+- Logo created by DALL-E.

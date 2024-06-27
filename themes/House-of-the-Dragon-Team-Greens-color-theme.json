@@ -1,66 +1,66 @@
 {
 	"name": "House of the Dragon: Team Greens",
 	"colors": {
-        "editor.background": "#081b13",
-        "editor.foreground": "#a5d6a7",
-        "editor.selectionBackground": "#154e32",
-        "editorCursor.foreground": "#9ccc65",
-        "editorWhitespace.foreground": "#2e7d32",
-        "sideBarTitle.foreground": "#d4e157",
-        "editor.selectionHighlightBorder": "#1b5e20",
-        "activityBar.background": "#0a2e1a",
-        "sideBar.background": "#0b3a24",
-        "sideBar.foreground": "#a5d6a7",
-        "titleBar.activeBackground": "#154e32",
-        "titleBar.activeForeground": "#dcedc8",
-        "statusBar.background": "#0a2e1a",
-        "statusBar.foreground": "#a5d6a7",
-        "editorGroupHeader.tabsBackground": "#0b3a24",
-        "editorGroupHeader.tabsBorder": "#154e32",
-        "tab.activeBackground": "#154e32",
-        "tab.inactiveBackground": "#0a2e1a",
-        "tab.activeForeground": "#dcedc8",
-        "tab.inactiveForeground": "#a5d6a7",
-        "tab.border": "#154e32",
-        "tab.activeBorder": "#4caf50",
-        "tab.unfocusedActiveBorder": "#2e7d32",
-        "tab.hoverBackground": "#1b5e20",
-        "tab.hoverForeground": "#dcedc8",
-        "list.activeSelectionBackground": "#154e32",
-        "list.activeSelectionForeground": "#dcedc8",
-        "list.hoverBackground": "#1b5e20",  
-        "list.hoverForeground": "#dcedc8",  
-        "list.focusBackground": "#154e32",  
-        "list.focusForeground": "#dcedc8",  
-        "list.inactiveSelectionBackground": "#154e32",  
-        "list.inactiveSelectionForeground": "#dcedc8",  
-        "editorLineNumber.foreground": "#a5d6a7",
-        "editorGutter.background": "#081b13",
-        "scrollbarSlider.background": "#2e7d32",
-        "scrollbarSlider.hoverBackground": "#388e3c",
-        "scrollbarSlider.activeBackground": "#4caf50",
-        "input.background": "#0b3a24",
-        "input.foreground": "#a5d6a7",
-        "dropdown.background": "#0b3a24",
-        "dropdown.foreground": "#a5d6a7",
-        "button.background": "#154e32",
-        "button.foreground": "#dcedc8",
-        "button.hoverBackground": "#1b5e20",
-        "badge.background": "#4caf50",
-        "badge.foreground": "#0a2e1a",
-        "activityBarBadge.background": "#4caf50",
-        "activityBarBadge.foreground": "#0a2e1a",
-		"terminal.foreground": "#a5d6a7",
-		"terminal.background": "#081b13",
-		"terminal.ansiBlack": "#081b13",
-		"terminal.ansiRed": "#ff5370",
+		"editor.background": "#0a0a0a",
+		"editor.foreground": "#d1d1d1",
+		"editor.selectionBackground": "#333333",
+		"editorCursor.foreground": "#50fa7b",
+		"editorWhitespace.foreground": "#444444",
+		"sideBarTitle.foreground": "#50fa7b",
+		"editor.selectionHighlightBorder": "#555555",
+		"activityBar.background": "#111111",
+		"sideBar.background": "#1a1a1a",
+		"sideBar.foreground": "#d1d1d1",
+		"titleBar.activeBackground": "#2a2a2a",
+		"titleBar.activeForeground": "#a5d6a7",
+		"statusBar.background": "#111111",
+		"statusBar.foreground": "#50fa7b",
+		"editorGroupHeader.tabsBackground": "#1a1a1a",
+		"editorGroupHeader.tabsBorder": "#2a2a2a",
+		"tab.activeBackground": "#2a2a2a",
+		"tab.inactiveBackground": "#111111",
+		"tab.activeForeground": "#a5d6a7",
+		"tab.inactiveForeground": "#d1d1d1",
+		"tab.border": "#2a2a2a",
+		"tab.activeBorder": "#50fa7b",
+		"tab.unfocusedActiveBorder": "#69ff94",
+		"tab.hoverBackground": "#3a3a3a",
+		"tab.hoverForeground": "#a5d6a7",
+		"list.activeSelectionBackground": "#2a2a2a",
+		"list.activeSelectionForeground": "#a5d6a7",
+		"list.hoverBackground": "#3a3a3a",
+		"list.hoverForeground": "#a5d6a7",
+		"list.focusBackground": "#2a2a2a",
+		"list.focusForeground": "#a5d6a7",
+		"list.inactiveSelectionBackground": "#2a2a2a",
+		"list.inactiveSelectionForeground": "#a5d6a7",
+		"editorLineNumber.foreground": "#50fa7b",
+		"editorGutter.background": "#0a0a0a",
+		"scrollbarSlider.background": "#444444",
+		"scrollbarSlider.hoverBackground": "#555555",
+		"scrollbarSlider.activeBackground": "#50fa7b",
+		"input.background": "#1a1a1a",
+		"input.foreground": "#a5d6a7",
+		"dropdown.background": "#1a1a1a",
+		"dropdown.foreground": "#a5d6a7",
+		"button.background": "#2a2a2a",
+		"button.foreground": "#a5d6a7",
+		"button.hoverBackground": "#3a3a3a",
+		"badge.background": "#50fa7b",
+		"badge.foreground": "#111111",
+		"activityBarBadge.background": "#50fa7b",
+		"activityBarBadge.foreground": "#111111",
+		"terminal.foreground": "#50fa7b",
+		"terminal.background": "#0a0a0a",
+		"terminal.ansiBlack": "#0a0a0a",
+		"terminal.ansiRed": "#ff5555",
 		"terminal.ansiGreen": "#50fa7b",
 		"terminal.ansiYellow": "#f1fa8c",
 		"terminal.ansiBlue": "#bd93f9",
 		"terminal.ansiMagenta": "#ff79c6",
 		"terminal.ansiCyan": "#8be9fd",
-		"terminal.ansiWhite": "#dcedc8",
-		"terminal.ansiBrightBlack": "#546e7a",
+		"terminal.ansiWhite": "#d1d1d1",
+		"terminal.ansiBrightBlack": "#4d4d4d",
 		"terminal.ansiBrightRed": "#ff6e6e",
 		"terminal.ansiBrightGreen": "#69ff94",
 		"terminal.ansiBrightYellow": "#ffffa5",
@@ -68,7 +68,7 @@
 		"terminal.ansiBrightMagenta": "#ff92d0",
 		"terminal.ansiBrightCyan": "#a4ffff",
 		"terminal.ansiBrightWhite": "#ffffff"
-    },
+	},
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -228,7 +228,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+					"foreground": "#FFCB6B"
 			}
 		},
 		{
@@ -440,7 +440,7 @@
 		{
 			"name": "JSON Key - Level 3",
 			"scope": [
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
 				"foreground": "#FF5370"
@@ -449,7 +449,7 @@
 		{
 			"name": "JSON Key - Level 4",
 			"scope": [
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
 				"foreground": "#C17E70"
@@ -458,7 +458,7 @@
 		{
 			"name": "JSON Key - Level 5",
 			"scope": [
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
 				"foreground": "#82AAFF"
@@ -467,7 +467,7 @@
 		{
 			"name": "JSON Key - Level 6",
 			"scope": [
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
 				"foreground": "#f07178"
@@ -476,7 +476,7 @@
 		{
 			"name": "JSON Key - Level 7",
 			"scope": [
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json support.type.property-name.json"
 			],
 			"settings": {
 				"foreground": "#C792EA"
@@ -485,7 +485,7 @@
 		{
 			"name": "JSON Key - Level 8",
 			"scope": [
-				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
 				"foreground": "#C3E88D"
