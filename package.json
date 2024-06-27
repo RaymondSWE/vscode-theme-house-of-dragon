@@ -1,0 +1,31 @@
+{
+  "name": "house-of-the-dragons-blacks-vs-greens",
+  "displayName": "House of the Dragons: Team Greens",
+  "description": "A VSCode theme inspired by House of the Dragon",
+  "version": "0.0.1",
+  "publisher": "RamanMohammed",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RaymondSWE/vscode-theme-house-of-dragon"
+  },
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "House of the Dragon: Team Greens",
+        "uiTheme": "vs-dark",
+        "path": "./themes/House-of-the-Dragon-Team-Greens-color-theme.json"
+      },
+      {
+        "label": "House of the Dragon: Team Blacks",
+        "uiTheme": "vs-dark",
+        "path": "./themes/House-of-the-Dragon-Team-Blacks-color-theme.json"
+    }
+    ]
+  }
+}
